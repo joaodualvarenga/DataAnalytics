@@ -7,7 +7,6 @@ All practices and the final project were written using the Python language, in a
 The objective of the final project is to find a way to reduce the non-payment rate of a credit provider, which is at 35%, based on a SQL database to be treated.<br/>
 
 Using the concepts and practices acquired during the course, it was possible to build a machine learning model and a neural network that achieved the objective. The model with best accuracy rate was the Random Forest with 78%, however, the Naive Bayes presented better results, since with the prediction of who will be paying or not, it is possible to calculate the sucess rate based only on the bank loans made, reaching a value of approximately 84%.<br/>
-
 *You can see the code:* **[HERE](https://github.com/joaodualvarenga/DataAnalytics/blob/main/7.FinalProject.ipynb)**<br />
 
 - [x] **Excel & Tableau** <br/>
